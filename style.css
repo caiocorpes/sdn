@@ -45,19 +45,19 @@ body * {
 /* profile */
 #profile {
   text-align: center;
-  padding: 20px;
+  padding: px;
 }
 
 #profile img {
   display: block;
   width: 300px;
   margin: auto;
-  padding: 25px;
+  padding: 20px;
 }
 
 #profile p {
   font-weight: 500;
-  line-height: 24px;
+  line-height: 20px;
   padding: 5px;
 }
 
